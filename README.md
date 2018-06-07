@@ -1,3 +1,3 @@
 # data-science
 
-Collection of important files and solutions for referance
+Collection of important files and solutions for reference
